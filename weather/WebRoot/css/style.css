@@ -1,0 +1,7 @@
+@CHARSET "GB18030";
+.feedbackShow(){
+	visibility:visible;
+}
+.feedbackHide{
+	visibility:hidden;
+}
